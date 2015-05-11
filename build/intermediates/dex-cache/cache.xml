@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\sushi_000\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="D:\Documents\Documents\Eclipse New Workspace\StoryStudio\build\intermediates\pre-dexed\freeFlavour\debug\library-2.4.0-838bf989ecfed75373346570060a1ff0b576b6e5.jar" />
+    </item>
+    <item
+        jar="D:\Documents\Documents\Eclipse New Workspace\StoryStudio\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="D:\Documents\Documents\Eclipse New Workspace\StoryStudio\build\intermediates\pre-dexed\freeFlavour\debug\internal_impl-21.0.3-a68589ad784562b1a3a4b12ed95e8141a618fcd4.jar" />
+    </item>
+    <item
+        jar="D:\Documents\Documents\Eclipse New Workspace\StoryStudio\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="D:\Documents\Documents\Eclipse New Workspace\StoryStudio\build\intermediates\pre-dexed\freeFlavour\debug\classes-b1acded1537587a79cb7b6fab20db8859d84e4d2.jar" />
+    </item>
+    <item
+        jar="D:\Documents\Documents\Eclipse New Workspace\StoryStudio\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="D:\Documents\Documents\Eclipse New Workspace\StoryStudio\build\intermediates\pre-dexed\freeFlavour\debug\classes-9c2aa40ec8d3139070b14d1876d3320d7d19d88f.jar" />
+    </item>
+    <item
+        jar="D:\Documents\Documents\Eclipse New Workspace\StoryStudio\build\intermediates\exploded-aar\com.android.support\android-support-v4-preferencefragment-master\1.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="738f50527642bdf5923ecba08652f47458e4d57e">
+        <dex dex="D:\Documents\Documents\Eclipse New Workspace\StoryStudio\build\intermediates\pre-dexed\freeFlavour\debug\classes-b6b9970e6e0e89511b39de4184cf992ade8afa2f.jar" />
+    </item>
+    <item
+        jar="D:\Documents\Documents\Eclipse New Workspace\StoryStudio\build\intermediates\exploded-aar\StoryStudio\google-play-services_lib_lollipop\unspecified\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e9503518a7b337937959f50128a6061307799fe2">
+        <dex dex="D:\Documents\Documents\Eclipse New Workspace\StoryStudio\build\intermediates\pre-dexed\freeFlavour\debug\classes-a8868066217e22732531fd1d9cf8bf471c3ea477.jar" />
+    </item>
+    <item
+        jar="D:\Documents\Documents\Eclipse New Workspace\StoryStudio\build\intermediates\exploded-aar\StoryStudio\google-play-services_lib_lollipop\unspecified\libs\google-play-services.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0f700f6802ba1a1f1fa7ac26d5db0666a89d75a6">
+        <dex dex="D:\Documents\Documents\Eclipse New Workspace\StoryStudio\build\intermediates\pre-dexed\freeFlavour\debug\google-play-services-75358bc5844a1965c323f669fb41d14bd04ed05e.jar" />
+    </item>
+    <item
+        jar="D:\Documents\Documents\Eclipse New Workspace\StoryStudio\libs\jsoup-1.7.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ab1f22cadc2f8b514e55ba368f5128056fe304da">
+        <dex dex="D:\Documents\Documents\Eclipse New Workspace\StoryStudio\build\intermediates\pre-dexed\freeFlavour\debug\jsoup-1.7.3-68bcd9828755d9c42d68c920851d127d395debf9.jar" />
+    </item>
+    <item
+        jar="D:\Documents\Documents\Eclipse New Workspace\StoryStudio\build\intermediates\exploded-aar\com.rengwuxian.materialedittext\library\1.7.1\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="646a2b29dfd386add9f71768c9e40d8f730e9392">
+        <dex dex="D:\Documents\Documents\Eclipse New Workspace\StoryStudio\build\intermediates\pre-dexed\freeFlavour\debug\classes-bc73acd432c41f254dc44ea15f034a06d6073800.jar" />
+    </item>
+    <item
+        jar="D:\Documents\Documents\Eclipse New Workspace\StoryStudio\build\intermediates\exploded-aar\StoryStudio\AndroidBootstrap\unspecified\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1da0aacc28e935668f363628b634e059323ede27">
+        <dex dex="D:\Documents\Documents\Eclipse New Workspace\StoryStudio\build\intermediates\pre-dexed\freeFlavour\debug\classes-72e718810d033ceec2484a1805cbf2cc5adcb2dc.jar" />
+    </item>
+    <item
+        jar="D:\Documents\Documents\Android Sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="D:\Documents\Documents\Eclipse New Workspace\StoryStudio\build\intermediates\pre-dexed\freeFlavour\debug\support-annotations-21.0.3-0a25a36c3f047245070cd2ccae09b33cc39b3976.jar" />
+    </item>
+    <item
+        jar="D:\Documents\Documents\Eclipse New Workspace\StoryStudio\libs\android-support-v7-gridlayout.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d999a97d15ffbf5ae4a5b916e3f4bf8e4c7af06f">
+        <dex dex="D:\Documents\Documents\Eclipse New Workspace\StoryStudio\build\intermediates\pre-dexed\freeFlavour\debug\android-support-v7-gridlayout-32d588a853a3f491dd9a9b8b8c694e35eee75ea4.jar" />
+    </item>
+
+</items>

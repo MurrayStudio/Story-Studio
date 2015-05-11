@@ -1,0 +1,13 @@
+D:\Documents\Documents\Eclipse New Workspace\StoryStudio\build\intermediates\classes\freeFlavour\debug
+D:\Documents\Documents\Eclipse New Workspace\StoryStudio\build\intermediates\pre-dexed\freeFlavour\debug\classes-a8868066217e22732531fd1d9cf8bf471c3ea477.jar
+D:\Documents\Documents\Eclipse New Workspace\StoryStudio\build\intermediates\pre-dexed\freeFlavour\debug\support-annotations-21.0.3-0a25a36c3f047245070cd2ccae09b33cc39b3976.jar
+D:\Documents\Documents\Eclipse New Workspace\StoryStudio\build\intermediates\pre-dexed\freeFlavour\debug\classes-b6b9970e6e0e89511b39de4184cf992ade8afa2f.jar
+D:\Documents\Documents\Eclipse New Workspace\StoryStudio\build\intermediates\pre-dexed\freeFlavour\debug\classes-bc73acd432c41f254dc44ea15f034a06d6073800.jar
+D:\Documents\Documents\Eclipse New Workspace\StoryStudio\build\intermediates\pre-dexed\freeFlavour\debug\android-support-v7-gridlayout-32d588a853a3f491dd9a9b8b8c694e35eee75ea4.jar
+D:\Documents\Documents\Eclipse New Workspace\StoryStudio\build\intermediates\pre-dexed\freeFlavour\debug\classes-72e718810d033ceec2484a1805cbf2cc5adcb2dc.jar
+D:\Documents\Documents\Eclipse New Workspace\StoryStudio\build\intermediates\pre-dexed\freeFlavour\debug\library-2.4.0-838bf989ecfed75373346570060a1ff0b576b6e5.jar
+D:\Documents\Documents\Eclipse New Workspace\StoryStudio\build\intermediates\pre-dexed\freeFlavour\debug\internal_impl-21.0.3-a68589ad784562b1a3a4b12ed95e8141a618fcd4.jar
+D:\Documents\Documents\Eclipse New Workspace\StoryStudio\build\intermediates\pre-dexed\freeFlavour\debug\jsoup-1.7.3-68bcd9828755d9c42d68c920851d127d395debf9.jar
+D:\Documents\Documents\Eclipse New Workspace\StoryStudio\build\intermediates\pre-dexed\freeFlavour\debug\classes-b1acded1537587a79cb7b6fab20db8859d84e4d2.jar
+D:\Documents\Documents\Eclipse New Workspace\StoryStudio\build\intermediates\pre-dexed\freeFlavour\debug\classes-9c2aa40ec8d3139070b14d1876d3320d7d19d88f.jar
+D:\Documents\Documents\Eclipse New Workspace\StoryStudio\build\intermediates\pre-dexed\freeFlavour\debug\google-play-services-75358bc5844a1965c323f669fb41d14bd04ed05e.jar
