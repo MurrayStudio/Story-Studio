@@ -25,12 +25,12 @@ ADDED from AndroidManifest.xml:7:5
 		ADDED from AndroidManifest.xml:7:23
 uses-sdk
 ADDED from AndroidManifest.xml:13:5
-MERGED from StoryStudio:google-play-services_lib_lollipop:unspecified:23:5
+MERGED from Story-Studio:google-play-services_lib_lollipop:unspecified:23:5
 MERGED from com.android.support:appcompat-v7:21.0.3:15:5
 MERGED from com.android.support:support-v4:21.0.3:15:5
 MERGED from com.android.support:android-support-v4-preferencefragment-master:1.0.0:20:5
 MERGED from com.android.support:support-v4:21.0.3:15:5
-MERGED from StoryStudio:AndroidBootstrap:unspecified:7:5
+MERGED from Story-Studio:AndroidBootstrap:unspecified:7:5
 MERGED from com.rengwuxian.materialedittext:library:1.7.1:6:5
 MERGED from com.android.support:appcompat-v7:21.0.3:15:5
 MERGED from com.android.support:support-v4:21.0.3:15:5
@@ -40,11 +40,11 @@ MERGED from com.android.support:support-v4:21.0.3:15:5
 		ADDED from AndroidManifest.xml:14:9
 application
 ADDED from AndroidManifest.xml:17:5
-MERGED from StoryStudio:google-play-services_lib_lollipop:unspecified:25:5
+MERGED from Story-Studio:google-play-services_lib_lollipop:unspecified:25:5
 MERGED from com.android.support:appcompat-v7:21.0.3:16:5
 MERGED from com.android.support:support-v4:21.0.3:16:5
 MERGED from com.android.support:support-v4:21.0.3:16:5
-MERGED from StoryStudio:AndroidBootstrap:unspecified:11:5
+MERGED from Story-Studio:AndroidBootstrap:unspecified:11:5
 MERGED from com.android.support:appcompat-v7:21.0.3:16:5
 MERGED from com.android.support:support-v4:21.0.3:16:5
 	android:label

@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="D:\Documents\Documents\Eclipse New Workspace\StoryStudio\src\androidTest\assets"/></dataSet><dataSet config="freeFlavour"><source path="D:\Documents\Documents\Eclipse New Workspace\StoryStudio\src\androidTestFreeFlavour\assets"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="D:\Documents\GitHub\Story-Studio\src\androidTest\assets"/></dataSet><dataSet config="freeFlavour"><source path="D:\Documents\GitHub\Story-Studio\src\androidTestFreeFlavour\assets"/></dataSet></merger>

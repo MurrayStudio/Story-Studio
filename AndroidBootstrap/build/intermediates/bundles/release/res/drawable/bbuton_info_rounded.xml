@@ -20,4 +20,4 @@
             <corners android:radius="@dimen/bbuton_rounded_corner_radius"/>
         </shape></item>
 
-</selector><!-- From: file:/D:/Documents/Documents/Eclipse%20New%20Workspace/StoryStudio/AndroidBootstrap/res/drawable/bbuton_info_rounded.xml -->
+</selector><!-- From: file:/D:/Documents/GitHub/Story-Studio/AndroidBootstrap/res/drawable/bbuton_info_rounded.xml -->
